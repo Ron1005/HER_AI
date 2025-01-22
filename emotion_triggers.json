@@ -1,0 +1,37 @@
+{
+    "joy": [
+        "happy", "wonderful", "great", "awesome", "excellent",
+        "love", "delighted", "excited", "grateful", "blessed",
+        "achievement", "success", "celebrate", "accomplished"
+    ],
+    "sadness": [
+        "sad", "unfortunate", "sorry", "miss", "lost",
+        "alone", "heartbroken", "disappointed", "grief", "regret",
+        "failed", "hopeless", "depressed"
+    ],
+    "anger": [
+        "angry", "furious", "frustrated", "annoyed", "upset",
+        "hate", "unfair", "wrong", "terrible", "outrageous",
+        "betrayed", "cheated"
+    ],
+    "fear": [
+        "scared", "afraid", "worried", "nervous", "anxious",
+        "terrified", "threatened", "dangerous", "risk", "concern",
+        "uncertain", "doubt"
+    ],
+    "surprise": [
+        "wow", "amazing", "unexpected", "unbelievable", "shocked",
+        "surprised", "astonished", "incredible", "sudden", "strange",
+        "unusual", "mysterious"
+    ],
+    "trust": [
+        "trust", "believe", "honest", "reliable", "faithful",
+        "confident", "secure", "dependable", "loyal", "true",
+        "promise", "commitment"
+    ],
+    "anticipation": [
+        "hope", "expect", "await", "looking forward", "soon",
+        "anticipate", "prepare", "ready", "planning", "future",
+        "potential", "possibility"
+    ]
+}
