@@ -1,6 +1,10 @@
-# Advanced Conversational AI Project
+# Advanced Conversational AI Project - HER AI Assistant
 
 This project is an advanced conversational AI system designed to engage in meaningful conversations with users. It incorporates natural language processing (NLP), emotional intelligence, and continuous learning capabilities to provide a more human-like interaction experience.
+
+## Overview
+
+HER AI Assistant is an advanced conversational AI system designed to engage in meaningful and context-aware conversations with users. The AI leverages natural language processing (NLP), emotional intelligence, and continuous learning to provide personalized and empathetic responses. The system is capable of understanding user intent, recognizing emotions, and maintaining context across conversations.
 
 ## Features
 
